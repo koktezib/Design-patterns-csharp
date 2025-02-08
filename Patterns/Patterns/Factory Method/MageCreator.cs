@@ -6,13 +6,9 @@ using System.Threading.Tasks;
 
 namespace Patterns.Patterns.Factory_Method
 {
-    public abstract class MageCreator
+    public abstract class MageCreator(string name)
     {
-        public string Name { get; set; }
-
-        public MageCreator(string name) {
-            Name = name;
-        }
+        public string Name { get; set; } = name;
 
         public abstract Mage Create();
     }

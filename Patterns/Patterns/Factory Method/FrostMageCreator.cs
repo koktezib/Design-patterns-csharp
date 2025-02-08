@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace Patterns.Patterns.Factory_Method
 {
-    internal class FrostMageCreator : MageCreator
+    internal class FrostMageCreator(string name) : MageCreator(name)
     {
-        public FrostMageCreator(string name) : base(name) { }
-
         public override Mage Create()
         {
             return new FrostMage();

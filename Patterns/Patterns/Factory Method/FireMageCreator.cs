@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace Patterns.Patterns.Factory_Method
 {
-    internal class FireMageCreator : MageCreator
+    internal class FireMageCreator(string name) : MageCreator(name)
     {
-        public FireMageCreator(string name) : base(name) { }
         public override Mage Create()
         {
             return new FireMage();
