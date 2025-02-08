@@ -1,8 +1,7 @@
-
-using Patterns.Patterns.Builder.Simple_builder.AbstractBuilder;
-using Patterns.Patterns.Builder.Simple_builder.ConcreteBuilder;
-using Patterns.Patterns.Builder.Simple_builder.Director;
-using Patterns.Patterns.Builder.Simple_builder.Product;
+using Patterns.Patterns.CreationalPatterns.Builder.Simple_builder.AbstractBuilder;
+using Patterns.Patterns.CreationalPatterns.Builder.Simple_builder.ConcreteBuilder;
+using Patterns.Patterns.CreationalPatterns.Builder.Simple_builder.Director;
+using Patterns.Patterns.CreationalPatterns.Builder.Simple_builder.Product;
 
 namespace PatternsTests
 {

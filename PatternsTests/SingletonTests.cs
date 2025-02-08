@@ -1,4 +1,4 @@
-using Patterns.Patterns.Singleton;
+using Patterns.Patterns.CreationalPatterns.Singleton;
 
 namespace PatternsTests;
 

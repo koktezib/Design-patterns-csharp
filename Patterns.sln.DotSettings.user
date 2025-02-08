@@ -2,6 +2,7 @@
 	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AICloneable_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003Fe3157c720a4245958cf8a1b12c4b4a27e90928_003Ff2_003F74861670_003FICloneable_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=745db882_002D1775_002D421f_002Daead_002D00a0519b0eaf/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SingletonTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::187C598B-DBB9-4779-A714-0DD97224BB21::net9.0::SingletonTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::187C598B-DBB9-4779-A714-0DD97224BB21::net9.0::PatternsTests.SingletonTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::187C598B-DBB9-4779-A714-0DD97224BB21::net9.0::PatternsTests.BuilderTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
