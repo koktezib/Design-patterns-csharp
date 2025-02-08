@@ -1,0 +1,14 @@
+C:\Users\koktezib\RiderProjects\pATTERNS\Patterns\bin\Debug\net9.0\Patterns.exe
+C:\Users\koktezib\RiderProjects\pATTERNS\Patterns\bin\Debug\net9.0\Patterns.deps.json
+C:\Users\koktezib\RiderProjects\pATTERNS\Patterns\bin\Debug\net9.0\Patterns.runtimeconfig.json
+C:\Users\koktezib\RiderProjects\pATTERNS\Patterns\bin\Debug\net9.0\Patterns.dll
+C:\Users\koktezib\RiderProjects\pATTERNS\Patterns\bin\Debug\net9.0\Patterns.pdb
+C:\Users\koktezib\RiderProjects\pATTERNS\Patterns\obj\Debug\net9.0\Patterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koktezib\RiderProjects\pATTERNS\Patterns\obj\Debug\net9.0\Patterns.AssemblyInfoInputs.cache
+C:\Users\koktezib\RiderProjects\pATTERNS\Patterns\obj\Debug\net9.0\Patterns.AssemblyInfo.cs
+C:\Users\koktezib\RiderProjects\pATTERNS\Patterns\obj\Debug\net9.0\Patterns.csproj.CoreCompileInputs.cache
+C:\Users\koktezib\RiderProjects\pATTERNS\Patterns\obj\Debug\net9.0\Patterns.dll
+C:\Users\koktezib\RiderProjects\pATTERNS\Patterns\obj\Debug\net9.0\refint\Patterns.dll
+C:\Users\koktezib\RiderProjects\pATTERNS\Patterns\obj\Debug\net9.0\Patterns.pdb
+C:\Users\koktezib\RiderProjects\pATTERNS\Patterns\obj\Debug\net9.0\Patterns.genruntimeconfig.cache
+C:\Users\koktezib\RiderProjects\pATTERNS\Patterns\obj\Debug\net9.0\ref\Patterns.dll

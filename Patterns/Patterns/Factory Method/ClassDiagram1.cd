@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Patterns.Patterns.Factory_Method.FireMage">
+    <Position X="6.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Patterns\Factory Method\FireMage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patterns.Patterns.Factory_Method.FireMageCreator">
+    <Position X="12.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Patterns\Factory Method\FireMageCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patterns.Patterns.Factory_Method.FrostMage">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Patterns\Factory Method\FrostMage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patterns.Patterns.Factory_Method.FrostMageCreator">
+    <Position X="10.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Patterns\Factory Method\FrostMageCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patterns.Patterns.Factory_Method.Mage">
+    <Position X="7.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Patterns\Factory Method\Mage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patterns.Patterns.Factory_Method.MageCreator">
+    <Position X="11.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Patterns\Factory Method\MageCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
