@@ -2,7 +2,7 @@
 
 namespace Patterns.Patterns.CreationalPatterns.Factory_Method.ConcreteProducts
 {
-    internal class FrostMage : Mage
+    public class FrostMage : Mage
     {
         public override void CastSpell()
         {

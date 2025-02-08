@@ -2,7 +2,7 @@
 
 namespace Patterns.Patterns.CreationalPatterns.Factory_Method.ConcreteProducts
 {
-    internal class FireMage : Mage
+    public class FireMage : Mage
     {
 
         public override void CastSpell()
