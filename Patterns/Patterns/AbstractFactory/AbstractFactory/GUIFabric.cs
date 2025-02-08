@@ -1,4 +1,6 @@
-﻿namespace Patterns.Patterns.AbstractFactory;
+﻿using Patterns.Patterns.AbstractFactory.AbstractProducts;
+
+namespace Patterns.Patterns.AbstractFactory.AbstractFactory;
 
 public abstract class GuiFabric
 {

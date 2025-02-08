@@ -1,4 +1,6 @@
-﻿namespace Patterns.Patterns.AbstractFactory;
+﻿using Patterns.Patterns.AbstractFactory.AbstractProducts;
+
+namespace Patterns.Patterns.AbstractFactory.ConcreteProducts;
 
 public class MacButton(string text, string name) : Button(text, name)
 {

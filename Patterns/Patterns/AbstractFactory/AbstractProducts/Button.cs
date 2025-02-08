@@ -1,4 +1,4 @@
-﻿namespace Patterns.Patterns.AbstractFactory;
+﻿namespace Patterns.Patterns.AbstractFactory.AbstractProducts;
 
 public abstract class Button (string text, string name)
 {

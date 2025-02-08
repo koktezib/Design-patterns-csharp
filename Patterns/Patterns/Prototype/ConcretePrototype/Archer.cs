@@ -1,4 +1,6 @@
-﻿namespace Patterns.Patterns.Prototype;
+﻿using Patterns.Patterns.Prototype.Prototype;
+
+namespace Patterns.Patterns.Prototype.ConcretePrototype;
 
 public class Archer(int damage, string name, int range) : IUnit
 {

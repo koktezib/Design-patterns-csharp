@@ -1,4 +1,4 @@
-﻿namespace Patterns.Patterns.AbstractFactory;
+﻿namespace Patterns.Patterns.AbstractFactory.AbstractProducts;
 
 public class TextBlock (string text, string name, string fontFamily)
 {

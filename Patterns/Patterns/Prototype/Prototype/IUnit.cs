@@ -1,4 +1,4 @@
-﻿namespace Patterns.Patterns.Prototype;
+﻿namespace Patterns.Patterns.Prototype.Prototype;
 
 public interface IUnit
 {

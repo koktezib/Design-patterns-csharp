@@ -1,4 +1,8 @@
-﻿namespace Patterns.Patterns.AbstractFactory;
+﻿using Patterns.Patterns.AbstractFactory.AbstractFactory;
+using Patterns.Patterns.AbstractFactory.AbstractProducts;
+using Patterns.Patterns.AbstractFactory.ConcreteProducts;
+
+namespace Patterns.Patterns.AbstractFactory.ConcreteFactory;
 
 public class MacGuiFactory : GuiFabric
 {
