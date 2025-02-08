@@ -2,3 +2,5 @@
 /.vs
 /Patterns/bin
 /Patterns/obj
+/PatternsTests/bin
+/PatternsTests/obj
